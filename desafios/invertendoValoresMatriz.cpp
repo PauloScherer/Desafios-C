@@ -39,8 +39,7 @@ int main() {
     printf("\n%d %d",minhaMatriz[0][0],minhaMatriz[0][1]);
     printf("\n%d %d",minhaMatriz[1][0],minhaMatriz[1][1]);
 	
-		
-	
+			
 	
 	return 0;
 }
