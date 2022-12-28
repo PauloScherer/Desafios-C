@@ -12,7 +12,7 @@ int main(){
 	
 	
 	int tamanho;
-   		 printf("Qual será o tamanho do vetor?");
+   		 printf("Digite o tamanho do vetor?");
     	scanf("%d", &tamanho);
  
     float vetor[tamanho], soma;
